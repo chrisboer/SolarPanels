@@ -5,7 +5,7 @@ const SOTGBase = require('../base');
 
 class SolarMAN extends SOTGBase.Driver {
     getBaseUrl() {
-        return 'http://213.136.73.47:18000/SolarmanApi/serverapi/';
+        return 'http://home.solarman.cn/login.html?lang=2/';
     }
 }
 
